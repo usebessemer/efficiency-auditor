@@ -1,5 +1,7 @@
 # efficiency-auditor
 
+> **Archived.** A v0.1 architecture-only exploration from the agent-dev-team era; never implemented. The work moved to the [Bessemer stack](https://github.com/usebessemer): research → [icm-kit](https://github.com/usebessemer/icm-kit) → [agent-classes](https://github.com/usebessemer/agent-classes). The ideas here (passive token observation, ephemeral-window cost cleanliness after [mlhher/late](https://github.com/mlhher/late), tiered trust boundaries) belong to the methodology/observability layer and may resurface there. Kept for history.
+
 A pluggable token usage monitoring and cost optimisation module for AI agent systems.
 
 Drop it into any tiered agent hierarchy to get passive token tracking, cost reporting, model tier recommendations, and post-change quality validation — without touching your pipeline logic.
